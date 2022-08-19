@@ -26,7 +26,7 @@
 
 ---
 
-### Looking for something else?
+### Looking for something else??
 
 - [React Native Starter Kit (Expo) / Boilerplate](https://github.com/mcnamee/react-native-expo-starter-kit)
 - [React Starter Kit (web) / Boilerplate](https://github.com/mcnamee/react-starter-kit)
